@@ -9,7 +9,7 @@ async function fetchData(){
         const response = await fetch(url);
 
         if(!response.ok){
-            throw new Error('erreur! Status: ${response.status}');
+            throw new Error('erreur status: ${response.status}');
         }
 
         const data = await response.json();
