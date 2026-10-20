@@ -5,4 +5,7 @@ Get a 100% real fact about Chuck Norris(besides, do you know that Chuck Norris i
 
 It took me around 2h30 to make it, the most difficult part was the css. So this website communicate with an api that sends me Chuck Norris facts when I click on a button and when my script get the response it write it on the screen and after that I did my best to make the website the most good looking possible.
 
+I made this website for the objectif "Homepage, make your own personal website" (even if I just re read the instructions and I understand that I wasn't supposed to do
+that :) ).
+
 It is very simple, you just click on the button "(100%)real fact about Chuck Norris" and a fact will appear.
